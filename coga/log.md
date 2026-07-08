@@ -1,2 +1,4 @@
 2026-05-28 19:15 [browser-automation] [human:zach] created (mode=interactive, status=draft)
 2026-06-17 09:00 [coga-build] [coga:init] created (mode=interactive, status=active)
+2026-07-07 21:07 [bootstrap/project] [human:nicktoper] project planning launched (assignee=claude, agent=claude)
+2026-07-07 21:18 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] created (mode=agent, status=draft)

@@ -14,3 +14,6 @@
 2026-07-07 21:45 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] started (active → in_progress) via coga launch
 2026-07-07 21:45 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] started (active → in_progress) via coga launch
 2026-07-07 21:45 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] launched in agent mode (assignee=claude, agent=claude)
+2026-07-07 21:38 [set-up-spark-tpc-ds-baseline-sf-1] [git] sync refused: coga/tasks/set-up-spark-tpc-ds-baseline-sf-1.md: status would move backward from 'done' to 'active'
+2026-07-07 22:22 [set-up-spark-tpc-ds-baseline-sf-1] [git] sync refused: coga/tasks/set-up-spark-tpc-ds-baseline-sf-1.md: status would move backward from 'in_progress' to 'active'
+2026-07-08 11:12 [bootstrap/orient] [human:nicktoper] launched in agent mode (assignee=claude, agent=claude)

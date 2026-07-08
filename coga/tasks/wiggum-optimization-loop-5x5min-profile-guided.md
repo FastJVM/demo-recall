@@ -9,7 +9,7 @@ agent: claude
 assignee: nicktoper
 contexts: []
 skills: []
-workflow: null
+workflow: direct/body
 secrets: null
 script: null
 ---

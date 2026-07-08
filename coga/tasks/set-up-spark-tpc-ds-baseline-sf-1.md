@@ -1,12 +1,12 @@
 ---
 slug: set-up-spark-tpc-ds-baseline-sf-1
 title: Set up Spark + TPC-DS baseline (SF=1)
-status: active
+status: in_progress
 mode: agent
 owner: nicktoper
 human: nicktoper
 agent: claude
-assignee: nicktoper
+assignee: claude
 contexts: []
 skills: []
 workflow:

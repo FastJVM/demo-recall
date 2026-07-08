@@ -1,7 +1,7 @@
 ---
 slug: verify-winning-config-and-write-report
 title: Verify winning config and write report
-status: draft
+status: active
 mode: agent
 owner: nicktoper
 human: nicktoper
@@ -9,9 +9,16 @@ agent: claude
 assignee: nicktoper
 contexts: []
 skills: []
-workflow: direct/body
+workflow:
+  name: direct/body
+  steps:
+  - name: execute
+    skills:
+    - direct/body
+    assignee: agent
 secrets: null
 script: null
+step: 1 (execute)
 ---
 
 ## Description

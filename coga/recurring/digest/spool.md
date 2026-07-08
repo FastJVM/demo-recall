@@ -15,3 +15,4 @@ context. The git high-water mark lives separately in the digest ticket's
 ## Spool (pending)
 
 consumed_through:
+{"id":"6460f175ae25","ts":"2026-07-07T21:38","project":"1d8f5516e94146ccbe3d0c71e108bda4","kind":"done","detail":"claude finished: execute → done ✅ — TPC-DS SF=1 baseline locked: 103/103 queries, total 140.0s (Spark 3.5.8, vanilla defaults). Deliverables in bench/: run scripts, locked baseline (results/), profile of top-5 slowest (profile/top5_slowest.md). Top bottleneck: q72 SMJ catalog_sales⋈inventory shuffles 189MB — should broadcast.","ticket":"set-up-spark-tpc-ds-baseline-sf-1","owner":"nicktoper"}

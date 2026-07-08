@@ -103,3 +103,7 @@ Decisions made: generator=DuckDB (simplest reliable SF=1 parquet); Java 17
 (box default Java 25 unsupported by Spark 3.5); q30 column-name shim
 (`c_last_review_date` ↔ `_sk`) so canonical query text stays unmodified.
 
+
+## Usage
+
+{"agent":"claude","cache_creation_input_tokens":196642,"cache_read_input_tokens":6480532,"cli":"claude","input_tokens":23569,"model":"claude-opus-4-8","output_tokens":116036,"provider":"anthropic","schema":1,"session_id":"90320791-69c0-451a-a35e-740a9809f582","slug":"set-up-spark-tpc-ds-baseline-sf-1","step":"execute","title":"Set up Spark + TPC-DS baseline (SF=1)","ts":"2026-07-08T04:38:38.688993Z","usage_status":"ok"}

@@ -4,3 +4,4 @@
 2026-07-07 21:18 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] created (mode=agent, status=draft)
 2026-07-07 21:18 [wiggum-optimization-loop-5x5min-profile-guided] [human:nicktoper] created (mode=agent, status=draft)
 2026-07-07 21:18 [Verify winning config and write before/after-report] [human:nicktoper] created (mode=agent, status=draft)
+2026-07-07 21:18 [verify-winning-config-and-write-report] [human:nicktoper] created (mode=agent, status=draft)

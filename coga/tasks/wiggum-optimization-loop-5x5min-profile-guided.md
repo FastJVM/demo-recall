@@ -60,3 +60,12 @@ The blackboard is a notepad to be written to often as the human and agent works 
 
 Prior run of this ticket (2026-07-07) is recoverable via
 `git show 9253fab^:coga/tasks/wiggum-optimization-loop-5x5min-profile-guided.md`.
+
+## Scoring set resolved by baseline ticket (2026-07-09)
+
+- Score every attempt on the full 103-file TPC-DS suite (99 query numbers plus
+  four `a`/`b` variants), not a representative subset.
+- Locked baseline: 103/103 successful, 165.837s total wall runtime on
+  Spark 3.5.8 `local[16]`, leaving about 134s inside the five-minute cap.
+- Read `bench/results/` and `bench/profile/top5_slowest.md` before choosing
+  attempt 1.

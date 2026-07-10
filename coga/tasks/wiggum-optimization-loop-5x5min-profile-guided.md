@@ -1,7 +1,7 @@
 ---
 slug: wiggum-optimization-loop-5x5min-profile-guided
 title: Wiggum optimization loop (5x5min, profile-guided)
-status: draft
+status: active
 mode: agent
 owner: nicktoper
 human: nicktoper

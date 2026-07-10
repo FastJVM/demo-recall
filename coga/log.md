@@ -19,3 +19,5 @@
 2026-07-08 11:12 [bootstrap/orient] [human:nicktoper] launched in agent mode (assignee=claude, agent=claude)
 2026-07-09 20:20 [bootstrap/project] [human:nicktoper] project planning launched (assignee=claude, agent=claude)
 2026-07-09 20:21 [bootstrap/project] [human:nicktoper] project planning launched (assignee=codex, agent=codex)
+2026-07-09 20:21 [bootstrap/project] [human:nicktoper] project planning launched (assignee=claude, agent=claude)
+2026-07-09 20:27 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] created (mode=agent, status=draft)

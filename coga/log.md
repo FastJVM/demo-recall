@@ -28,3 +28,13 @@
 2026-07-09 20:32 [verify-winning-config-and-write-report] [human:nicktoper] activated (draft → active)
 2026-07-09 20:35 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] started (active → in_progress) via coga launch
 2026-07-09 20:35 [set-up-spark-tpc-ds-baseline-sf-1] [human:nicktoper] launched in agent mode (assignee=claude, launch_assignee=codex, agent=codex)
+2026-07-17 14:41 [recurring/autoclose-merged] [system] created (status=active)
+2026-07-17 14:41 [recurring/autoclose-merged] [system] created recurring/autoclose-merged for 2026-07-17
+2026-07-17 14:41 [recurring/blocker-reminders] [system] created (status=active)
+2026-07-17 14:41 [recurring/blocker-reminders] [system] created recurring/blocker-reminders for 2026-07-17
+2026-07-17 14:41 [recurring/branch-sweep] [system] created (status=active)
+2026-07-17 14:41 [recurring/branch-sweep] [system] created recurring/branch-sweep for 2026-W29
+2026-07-17 14:41 [recurring/digest] [system] created (status=active)
+2026-07-17 14:41 [recurring/digest] [system] created recurring/digest for 2026-07-17
+2026-07-17 14:41 [recurring/dream] [system] created (status=active)
+2026-07-17 14:41 [recurring/dream] [system] created recurring/dream for 2026-W29
